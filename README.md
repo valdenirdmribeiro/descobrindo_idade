@@ -1,1 +1,3 @@
 # descobrindo_idade
+Script basico em ruy que mostra que idade uma pessoa tem....
+
